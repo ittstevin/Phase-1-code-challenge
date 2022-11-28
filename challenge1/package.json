@@ -1,0 +1,22 @@
+{
+  "name": "phase-1-code-challenge",
+  "version": "1.0.0",
+  "description": "my first code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ittstevin/Phase-1-code-challenge.git"
+  },
+  "author": "Tevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ittstevin/Phase-1-code-challenge/issues"
+  },
+  "homepage": "https://github.com/ittstevin/Phase-1-code-challenge#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
