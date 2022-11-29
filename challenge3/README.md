@@ -1,4 +1,5 @@
-# HTML DOM
+# Phase-1-code-challenge
+# Net Salary Calculator 
 
 # Description
 The program calculates the net salary of an individual by getting the inputs of basic and taxes

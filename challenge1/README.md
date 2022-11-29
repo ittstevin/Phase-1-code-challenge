@@ -1,4 +1,5 @@
-# HTML DOM
+# Phase-1-code-challenge
+# Student Grade Generator
 
 # Description
 This is a Program that allows the user to input student marks inorder for them to be graded.The program only converts marks between 0 and 100
